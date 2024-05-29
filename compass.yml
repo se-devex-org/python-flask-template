@@ -1,0 +1,26 @@
+name: python-flask-template
+id: ari:cloud:compass:a52dfdae-b7fc-40ec-80f3-9f57c97d76ce:component/5febc276-1c07-482c-8a84-8103641855ae/74f96a69-58b4-4365-8aff-b1e7632932cd
+description: A Python Flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication.
+configVersion: 1
+typeId: UI_ELEMENT
+ownerId: ari:cloud:identity::team/6a13ca73-0456-405d-97f1-e58573d28e7b
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/se-devex-org/python-flask-template
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: Data encrypted at rest
+    type: text
+    value: null
+  - name: Data encrypted in transit
+    type: text
+    value: null
+  - name: Last security review
+    type: text
+    value: null
